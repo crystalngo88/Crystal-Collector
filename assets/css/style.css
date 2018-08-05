@@ -1,0 +1,51 @@
+.container {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+body {
+    font-size: 25px;
+}
+
+.card-title {
+    margin-top: 10px;
+    color: lavenderblush;
+    font-size: 20px;
+    font-weight: bold;
+    background: purple;
+    border: 3px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+.card {
+    margin: 0 auto 0 auto;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.display {
+    margin: 75px;
+}
+
+.jumbotron {
+    background-color: lavenderblush;
+    color: purple;
+}
+
+.crystalDisplay {
+    margin-top: 100px;
+}
+
+.gameTracker {
+    margin-top: 100px;
+}
+
+.btn {
+    border: 1px;
+    text-align: center;
+}
